@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BLY3B+Y2VdnMx4AQzRpuKIe8NqZ1xqaL6IzNOeM0DJ3gtLZhv+A58HuvGSaZDV4IwZ7nKyocVmj2rFG7dCPsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fujitsu\\Desktop\\Projects\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fujitsu\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\Fujitsu\\.nuget\\packages\\dryioc.dll\\5.3.3\\dryioc.dll.5.3.3.nupkg.sha512",
+    "C:\\Users\\Fujitsu\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimeNumbers/1.0.0": {
+        "dependencies": {
+          "Baseline": "4.1.0",
+          "DryIoc.dll": "5.3.3"
+        },
+        "runtime": {
+          "PrimeNumbers.dll": {}
+        }
+      },
+      "Baseline/4.1.0": {
+        "dependencies": {
+          "ImTools": "4.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Baseline.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "DryIoc.dll/5.3.3": {
+        "runtime": {
+          "lib/netstandard2.1/DryIoc.dll": {
+            "assemblyVersion": "5.3.3.0",
+            "fileVersion": "5.3.3.0"
+          }
+        }
+      },
+      "ImTools/4.0.0": {}
+    }
+  },
+  "libraries": {
+    "PrimeNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Baseline/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uM4EJYhrn9OmjLOTI0nJuT6WwqsH/+ZM+d8uwLS1o/SX8MRp5xj/83Zoms7ffwi8D3AMK+qDyUJ4cx4jgVY9gg==",
+      "path": "baseline/4.1.0",
+      "hashPath": "baseline.4.1.0.nupkg.sha512"
+    },
+    "DryIoc.dll/5.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VaneP1YYCtRVtJ/8T4xb9de/vukLhIvQh4cVrxUvOUMbj37c3uVxsQyNFcCUH0563FDoiTW46AyHeDnn2WkYRw==",
+      "path": "dryioc.dll/5.3.3",
+      "hashPath": "dryioc.dll.5.3.3.nupkg.sha512"
+    },
+    "ImTools/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dms0JfLKC9AQbQX/EdpRjn59EjEvaCxIgv1z9YxbEQb5SiOVoo7vlIKdEySeEwUkWhN05rZnNpUpG+aw5VqPVQ==",
+      "path": "imtools/4.0.0",
+      "hashPath": "imtools.4.0.0.nupkg.sha512"
+    }
+  }
+}
